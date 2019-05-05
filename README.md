@@ -1,6 +1,10 @@
 # rpi-kube
 scripts to setup raspberry pi kubernetes cluster 
 
+```sh hostname_and_ip.sh k8s-master 192.168.1.100 192.168.1.1```
+
+```sh install.sh```
+
 # kube master node
 Run:
 
