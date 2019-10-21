@@ -52,3 +52,7 @@ sudo sysctl net.bridge.bridge-nf-call-iptables=1
 ```
 kubectl get nodes
 ```
+
+
+
+Alternative setup using k3sup: https://blog.alexellis.io/test-drive-k3s-on-raspberry-pi/
